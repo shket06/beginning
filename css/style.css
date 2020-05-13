@@ -1,4 +1,7 @@
 h1 {
   font-size: 60px;
-  color: rgba(219, 68, 55, 0.5);
+  color: rgba(219, 68, 55, 1);
+}
+body {
+  background-color: rgb(156, 68, 169);
 }
