@@ -1,7 +1,14 @@
-h1 {
-  font-size: 60px;
-  color: rgba(219, 68, 55, 1);
+html,body {
+  background-color: black;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
 }
-body {
-  background-color: rgb(156, 68, 169);
+.navbar-brend {
+  padding: 60px 60px;
+}
+.navbar-toggler {
+  border: none;
+}
+.navbar-nav {
+  
 }
